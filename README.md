@@ -10,7 +10,7 @@ Welcome to the GetBenefits Courses API! This API provides information about avai
 ### Installation
 1. Clone this repository.
    ```bash
-   git clone https://github.com/well300/udemybot-api/
+   git clone https://github.com/nischayreddy09/udemy
    ```
 
 2. Install dependencies.
